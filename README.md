@@ -186,4 +186,4 @@ This repository serves as the official landing page for Hidocs Document Converte
 **Get the most recent version of Hidocs Document Converter today!**
 
 ---
-**Last updated:** 2026-11-12 17:58:27 UTC
+**Last updated:** 2026-11-12 23:29:23 UTC
